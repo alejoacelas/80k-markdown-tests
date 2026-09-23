@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 04 Sep 2026 16:42:44 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server-Timing: cfEdge;dur=18,cfOrigin;dur=0
+Location: https://80000hours.org/about/
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jbbGwx%2BlXRbvN%2F1A08NssWVXZT7%2Bj0pynKR7KyZ5hfym2GC7l%2Fcfr%2FnzVtqmpKN%2BpyHsu2sMiG%2Bti74o75CJt6HsK2xFfvDmytJTOBeSpU0c3pwTHTHXmizZ8Px3poMZjvYpv1mpaS1uBnnq"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a35e72fa2ba1edee-LHR
+

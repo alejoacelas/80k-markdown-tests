@@ -1,0 +1,23 @@
+HTTP/2 404 
+date: Fri, 04 Sep 2026 16:42:43 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+cf-edge-cache: cache,platform=wordpress
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+link: <https://80000hours.org/wp-json/>; rel="https://api.w.org/"
+status: 404 Not Found
+x-powered-by: WP Engine
+x-cacheable: NO:Private
+x-cache: MISS
+x-cache-group: normal
+cf-apo-via: tcache
+age: 298
+cf-cache-status: HIT
+server-timing: cfCacheStatus;desc="HIT"
+server-timing: cfEdge;dur=15,cfOrigin;dur=0
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LGPGVgxGIj90YzipAiy8I2w%2FkCCtfiDVaBHlu3AM64aRrE4wF2NXZxdPqXo3IB%2By8XxzmHDv7eUVjzw7mH4dg3Vw2daJi3GIT8UhrlrUWCAI%2FfZN9EXOWMI9hOB56%2BwMZsSR677nBu09tc%2BE"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a35e72f8c92cb2a4-LHR
+

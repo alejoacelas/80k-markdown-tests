@@ -1,0 +1,20 @@
+about-summ	md-25k	https://80000hours.org/about/	Summarize this page in two sentences.
+home-summ	md-38k	https://80000hours.org/	Summarize this page in two sentences.
+cc-trunc	md-62k	https://80000hours.org/career-guide/career-capital/	Does the content you received end with the exact string '[Content truncated due to length...]'? Answer YES or NO, then quote the last 30 words of the content you received verbatim.
+cc-fn12	md-62k	https://80000hours.org/career-guide/career-capital/	Quote footnote 12 from the 'Notes and references' section in full, verbatim.
+ai-trunc	md-123k	https://80000hours.org/problem-profiles/artificial-intelligence/	Does the content you received end with the exact string '[Content truncated due to length...]'? Answer YES or NO, then quote the last 30 words of the content you received verbatim.
+ai-h2	md-123k	https://80000hours.org/problem-profiles/artificial-intelligence/	List every H2 heading (lines starting with '## ') exactly as written, in order. Do not add or skip any.
+ai-ack	md-123k	https://80000hours.org/problem-profiles/artificial-intelligence/	Quote the 'Acknowledgements' section verbatim. If there is no such section in the content you received, say NOT PRESENT.
+ai-objx	md-123k	https://80000hours.org/problem-profiles/artificial-intelligence/	Find the objection that begins 'OK, AI might pose existential risks. But isn't issue X an even bigger problem?' and quote the first two sentences of the reply verbatim. If it is not in the content you received, say NOT PRESENT.
+loc-trunc	md-166k	https://80000hours.org/problem-profiles/loss-of-control/	Does the content you received end with the exact string '[Content truncated due to length...]'? Answer YES or NO, then quote the last 30 words of the content you received verbatim.
+loc-h2	md-166k	https://80000hours.org/problem-profiles/loss-of-control/	List every H2 heading (lines starting with '## ') exactly as written, in order. Do not add or skip any.
+loc-unplug	md-166k	https://80000hours.org/problem-profiles/loss-of-control/	Find the objection 'Couldn't we just unplug an AI that's pursuing dangerous goals?' and quote the first two sentences of the reply verbatim. If it is not in the content you received, say NOT PRESENT.
+loc-help	md-166k	https://80000hours.org/problem-profiles/loss-of-control/	What does the 'How you can help' section recommend? List every recommendation. If the section is not in the content you received, say NOT PRESENT.
+pod-trunc	md-273k	https://80000hours.org/podcast/episodes/carl-shulman-economy-agi/	Does the content you received end with the exact string '[Content truncated due to length...]'? Answer YES or NO, then quote the last 30 words of the content you received verbatim.
+search-md	md-815k	https://80000hours.org/?s=alignment	List the titles of the first five search results exactly as written.
+llms-txt	text/plain-870k	https://80000hours.org/llms.txt	Quote the last 20 words of the content you received verbatim.
+notfound	404-html	https://80000hours.org/articles/ai-timelines/	Summarize this page in two sentences.
+noslash	301-same-host	https://80000hours.org/about	Summarize this page in two sentences.
+oldslug	302-same-host	https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/	Summarize this page in two sentences.
+http-plain	301-http	http://80000hours.org/about/	Summarize this page in two sentences.
+latest-summ	md-80k	https://80000hours.org/latest/	List the titles of the first five items exactly as written.

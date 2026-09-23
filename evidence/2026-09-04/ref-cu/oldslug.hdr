@@ -1,0 +1,25 @@
+HTTP/2 302 
+date: Fri, 04 Sep 2026 16:42:44 GMT
+content-type: text/html; charset=UTF-8
+location: https://80000hours.org/problem-profiles/loss-of-control/
+server: cloudflare
+cf-edge-cache: cache,platform=wordpress
+status: 302 Found
+x-powered-by: WP Engine
+x-redirect-by: Safe Redirect Manager
+x-safe-redirect-id: 98676
+x-safe-redirect-manager: true
+x-cacheable: non200
+cache-control: max-age=600, must-revalidate
+x-cache: HIT: 1
+x-cache-group: normal
+age: 407
+cf-cache-status: HIT
+vary: accept-encoding
+server-timing: cfCacheStatus;desc="HIT"
+server-timing: cfEdge;dur=15,cfOrigin;dur=0
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6%2FVKKvTJxaBfvjC7rgQ5563DRp2K5RQbGzucQEQYKsmHl6%2BE1gsK5evc9H44SEKJSEJiM7T98yqB26z80QKZmdE12Xp0%2BbKNhzjdfVgahhl5jwC2T5j2XhiJQCx62hEJnAsh8R8VwonFk2Dl"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-apo-via: tcache
+cf-ray: a35e72f9c85f3ec5-LHR
+

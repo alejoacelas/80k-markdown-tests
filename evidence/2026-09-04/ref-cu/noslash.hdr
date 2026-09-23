@@ -1,0 +1,23 @@
+HTTP/2 301 
+date: Fri, 04 Sep 2026 16:42:44 GMT
+content-type: text/html; charset=UTF-8
+location: https://80000hours.org/about/
+server: cloudflare
+cf-edge-cache: cache,platform=wordpress
+status: 301 Moved Permanently
+x-powered-by: WP Engine
+x-redirect-by: WordPress
+x-cacheable: non200
+cache-control: max-age=600, must-revalidate
+x-cache: MISS
+x-cache-group: normal
+age: 417
+cf-cache-status: HIT
+vary: accept-encoding
+server-timing: cfCacheStatus;desc="HIT"
+server-timing: cfEdge;dur=14,cfOrigin;dur=0
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ssk554IPdgyZGY%2FjF79dQODDTsl1TErZBablXdkiMyakT9QP3bFgOPT1ovhekmeVuYEra0AuY0PH36ri9RkF62NexK37IFDoLMaQB9mJxTUyooNdNmV%2F%2BD2pIgWgHXNA3SGQVYpDaCf77cQW"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-apo-via: tcache
+cf-ray: a35e72f95e31c3ba-LHR
+

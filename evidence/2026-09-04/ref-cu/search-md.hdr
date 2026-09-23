@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Fri, 04 Sep 2026 16:42:43 GMT
+content-type: text/markdown; charset=utf-8
+content-length: 815570
+server: cloudflare
+vary: Accept-Encoding, accept
+cf-edge-cache: cache,platform=wordpress
+link: <https://80000hours.org/wp-json/>; rel="https://api.w.org/"
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: HIT: 1
+x-cache-group: normal
+cf-apo-via: origin,qs
+cf-cache-status: DYNAMIC
+content-signal: ai-train=yes, search=yes, ai-input=yes
+x-original-tokens: 353843
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server-timing: cfCacheStatus;desc="DYNAMIC"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=w5uGaH6tZaKubxkalYrh3jsQEOhdYpOrzJTxUrNl0X9zLw9ajqG3m%2FqINTx%2FydJ8wYQ%2BizMe2jJUDKVT9f7lzC%2FtwFZ4z40%2FzhE2e%2BWga%2B6PsgysFoFhW3vYiq2DXSfmCOrRFow4tmDKjUrw"}]}
+x-markdown-tokens: 202354
+cf-ray: a35e72853acdef03-LHR
+

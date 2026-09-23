@@ -1,0 +1,26 @@
+HTTP/2 200 
+date: Fri, 04 Sep 2026 16:47:30 GMT
+content-type: text/markdown; charset=utf-8
+content-length: 167733
+server: cloudflare
+vary: Accept-Encoding, accept
+cf-edge-cache: cache,platform=wordpress
+link: <https://80000hours.org/wp-json/>; rel="https://api.w.org/"
+link: <https://80000hours.org/wp-json/wp/v2/problem_profile/77853>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://80000hours.org/?p=77853>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: MISS
+x-cache-group: normal
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DkLTY43EdxFG%2Fg6H7d8gqrAwme8Bgv24xfDRLs%2FSbi780ZoRtJlFz12nqNAsvIK5DtJIU3M2XHDheWyoQyInwmrptQ1Gmueub3nGPSNGgy75LrtOlhFQZvS2l%2FgJXI4rM%2Fo%2B5%2BudJakzmA9x"}]}
+cf-apo-via: tcache
+age: 555
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: HIT
+content-signal: ai-train=yes, search=yes, ai-input=yes
+x-original-tokens: 81163
+server-timing: cfCacheStatus;desc="HIT"
+x-markdown-tokens: 41568
+cf-ray: a35e79f2dc40bef6-LHR
+
