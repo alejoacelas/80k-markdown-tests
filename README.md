@@ -103,7 +103,7 @@ The AI profile test asks:
 page afterwards, and writes the comparison. [capture.py](capture.py) saves the
 exact WebFetch request and response. The original September 4 prompts, captures
 and reference pages are preserved unchanged under `evidence/2026-09-04/`.
-Keep this employer repository private.
+This repository is public. Linked Slack threads and Google Docs retain their existing access restrictions.
 
 **“Captured” means the experiment completed, not that the answer is correct.**
 For a quotation or heading test, compare the saved `response.txt` with

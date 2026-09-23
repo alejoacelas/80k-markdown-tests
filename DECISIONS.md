@@ -9,7 +9,8 @@
 
 ### Preserve evidence
 
-Keep September 4 captures unchanged and the repository private. Fresh runs save
+Keep September 4 captures unchanged. Alejo approved making this repository public
+on September 23, 2026. Fresh runs save
 separate outputs and independently download reference pages after WebFetch. This
 allows comparison without replacing the evidence behind the original report.
 Implemented in [7b76c5e](https://github.com/alejoacelas/80k-markdown-tests/commit/7b76c5e).
@@ -32,3 +33,7 @@ quotations and headings against source text when drawing conclusions.
   excerpts directly, with run instructions last; link the Google Doc for detailed
   implementation plans. Preserve the Slack decision that Rachel judges priority
   and Valerie helps as needed. See [ea48cf5](https://github.com/alejoacelas/80k-markdown-tests/commit/ea48cf5).
+
+- 2026-09-23: Publish this repository at Alejo’s explicit request. Checked tracked
+  files and Git history for credentials before changing visibility. Linked internal
+  resources retain their existing permissions.
