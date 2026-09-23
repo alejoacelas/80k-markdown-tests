@@ -25,5 +25,10 @@ quotations and headings against source text when drawing conclusions.
 
 - 2026-09-23: Extract the Markdown experiment into a small private repository with
   one runner and the original evidence, so the web team can reproduce it without
-  navigating unrelated research. Keep the substantive website recommendations in
-  the existing Google Doc linked from the README.
+  navigating unrelated research. 
+
+- 2026-09-23: Make the README sufficient for Valerie to understand the deployment,
+  evidence, remaining problems and optional next steps. Include the findings and
+  excerpts directly, with run instructions last; link the Google Doc for detailed
+  implementation plans. Preserve the Slack decision that Rachel judges priority
+  and Valerie helps as needed. See [ea48cf5](https://github.com/alejoacelas/80k-markdown-tests/commit/ea48cf5).
